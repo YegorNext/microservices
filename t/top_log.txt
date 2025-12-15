@@ -1,854 +1,278 @@
-top - 20:33:24 up 43 min,  1 user,  load average: 0.51, 0.39, 0.20
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni, 95.2 id,  4.8 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     68.1 free,    678.2 used,    469.4 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    236.0 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 178240 121216 S   0.0  19.0   0:43.74 WebAppl+
-
-top - 20:33:25 up 43 min,  1 user,  load average: 0.51, 0.39, 0.20
+top - 21:09:37 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
 Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
 %Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     68.1 free,    678.2 used,    469.4 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    236.0 avail Mem 
+MiB Mem :    914.2 total,    249.6 free,    596.4 used,    316.5 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    317.8 avail Mem 
 
     PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 178240 121216 S   0.0  19.0   0:43.74 WebAppl+
+  14298 root      20   0  261.3g 158916  73652 S   0.0  17.0   1:37.66 WebAppl+
 
-top - 20:33:26 up 43 min,  1 user,  load average: 0.51, 0.39, 0.20
+top - 21:09:37 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
 Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
 %Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     68.1 free,    678.2 used,    469.4 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    236.0 avail Mem 
+MiB Mem :    914.2 total,    249.6 free,    596.4 used,    316.5 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    317.8 avail Mem 
 
     PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 178240 121216 S   0.0  19.0   0:43.74 WebAppl+
+  14298 root      20   0  261.3g 158916  73652 S   0.0  17.0   1:37.66 WebAppl+
 
-top - 20:33:27 up 43 min,  1 user,  load average: 0.47, 0.38, 0.20
+top - 21:09:38 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
 Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
 %Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     67.1 free,    679.1 used,    469.4 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    235.1 avail Mem 
+MiB Mem :    914.2 total,    249.6 free,    596.4 used,    316.5 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    317.8 avail Mem 
 
     PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 178236 121216 S   0.0  19.0   0:43.74 WebAppl+
+  14298 root      20   0  261.3g 158916  73652 S   0.0  17.0   1:37.66 WebAppl+
 
-top - 20:33:28 up 43 min,  1 user,  load average: 0.47, 0.38, 0.20
+top - 21:09:38 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
 Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
 %Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     67.1 free,    679.1 used,    469.4 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    235.1 avail Mem 
+MiB Mem :    914.2 total,    249.6 free,    596.4 used,    316.5 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    317.8 avail Mem 
 
     PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 178236 121216 S   0.0  19.0   0:43.74 WebAppl+
+  14298 root      20   0  261.3g 158916  73652 S   0.0  17.0   1:37.66 WebAppl+
 
-top - 20:33:29 up 43 min,  1 user,  load average: 0.47, 0.38, 0.20
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.5 us,  0.0 sy,  0.0 ni, 99.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     67.1 free,    679.1 used,    469.4 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    235.1 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 178236 121216 S   0.0  19.0   0:43.74 WebAppl+
-
-top - 20:33:30 up 43 min,  1 user,  load average: 0.47, 0.38, 0.20
+top - 21:09:38 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
 Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
 %Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     67.1 free,    679.1 used,    469.5 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    235.1 avail Mem 
+MiB Mem :    914.2 total,    249.6 free,    596.4 used,    316.5 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    317.8 avail Mem 
 
     PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 178236 121216 S   0.0  19.0   0:43.74 WebAppl+
+  14298 root      20   0  261.3g 158916  73652 S   0.0  17.0   1:37.66 WebAppl+
 
-top - 20:33:31 up 43 min,  1 user,  load average: 0.47, 0.38, 0.20
+top - 21:09:38 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.2 us,  0.0 sy,  0.0 ni, 85.4 id,  0.0 wa,  0.0 hi,  2.4 si,  0.0 st 
+MiB Mem :    914.2 total,    249.6 free,    596.4 used,    316.5 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    317.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  14298 root      20   0  261.3g 159632  73652 S  25.0  17.1   1:37.71 WebAppl+
+
+top - 21:09:38 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 47.5 us,  5.0 sy,  0.0 ni, 47.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :    914.2 total,    249.6 free,    596.4 used,    316.5 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    317.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  14298 root      20   0  261.4g 158936  73656 S 100.0  17.0   1:37.92 WebAppl+
+
+top - 21:09:39 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 75.0 us, 20.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  5.0 si,  0.0 st 
+MiB Mem :    914.2 total,    249.6 free,    596.4 used,    316.5 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    317.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  14298 root      20   0  261.4g 157792  73656 S 200.0  16.9   1:38.32 WebAppl+
+
+top - 21:09:39 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 80.5 us, 12.2 sy,  0.0 ni,  4.9 id,  0.0 wa,  0.0 hi,  2.4 si,  0.0 st 
+MiB Mem :    914.2 total,    249.6 free,    596.4 used,    316.5 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    317.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  14298 root      20   0  261.4g 159012  73656 S 190.0  17.0   1:38.70 WebAppl+
+
+top - 21:09:39 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 79.5 us, 12.8 sy,  0.0 ni,  2.6 id,  0.0 wa,  0.0 hi,  5.1 si,  0.0 st 
+MiB Mem :    914.2 total,    249.6 free,    596.4 used,    316.5 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    317.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  14298 root      20   0  261.4g 159636  73660 S 195.0  17.1   1:39.09 WebAppl+
+
+top - 21:09:39 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17.1 us,  7.3 sy,  0.0 ni, 73.2 id,  0.0 wa,  0.0 hi,  2.4 si,  0.0 st 
+MiB Mem :    914.2 total,    249.6 free,    596.4 used,    316.5 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    317.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  14298 root      20   0  261.4g 157192  73660 S  50.0  16.8   1:39.19 WebAppl+
+
+top - 21:09:39 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 35.0 us,  7.5 sy,  0.0 ni, 55.0 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st 
+MiB Mem :    914.2 total,    249.6 free,    596.4 used,    316.5 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    317.8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  14298 root      20   0  261.5g 168820  73660 S  90.0  18.0   1:39.37 WebAppl+
+
+top - 21:09:40 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 72.5 us, 22.5 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  5.0 si,  0.0 st 
+MiB Mem :    914.2 total,    237.0 free,    607.6 used,    317.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    306.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  14298 root      20   0  261.5g 170660  73660 S 195.0  18.2   1:39.76 WebAppl+
+
+top - 21:09:40 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 78.6 us, 11.9 sy,  0.0 ni,  2.4 id,  0.0 wa,  0.0 hi,  7.1 si,  0.0 st 
+MiB Mem :    914.2 total,    237.0 free,    607.6 used,    317.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    306.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  14298 root      20   0  261.5g 172592  73660 S 195.2  18.4   1:40.17 WebAppl+
+
+top - 21:09:40 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 79.5 us, 15.4 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  5.1 si,  0.0 st 
+MiB Mem :    914.2 total,    237.0 free,    607.6 used,    317.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    306.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  14298 root      20   0  261.5g 169868  73660 S 200.0  18.1   1:40.57 WebAppl+
+
+top - 21:09:40 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 31.7 us, 12.2 sy,  0.0 ni, 53.7 id,  0.0 wa,  0.0 hi,  2.4 si,  0.0 st 
+MiB Mem :    914.2 total,    237.0 free,    607.6 used,    317.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    306.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  14298 root      20   0  261.5g 168592  73660 S  85.0  18.0   1:40.74 WebAppl+
+
+top - 21:09:40 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 25.0 us,  2.5 sy,  0.0 ni, 72.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :    914.2 total,    237.0 free,    607.6 used,    317.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    306.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  14298 root      20   0  261.5g 173148  73660 S  57.1  18.5   1:40.86 WebAppl+
+
+top - 21:09:41 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 75.0 us, 20.0 sy,  0.0 ni,  0.0 id,  0.0 wa,  0.0 hi,  5.0 si,  0.0 st 
+MiB Mem :    914.2 total,    237.0 free,    607.6 used,    317.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    306.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  14298 root      20   0  261.5g 171648  73660 S 200.0  18.3   1:41.26 WebAppl+
+
+top - 21:09:41 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 77.5 us, 15.0 sy,  0.0 ni,  2.5 id,  0.0 wa,  0.0 hi,  5.0 si,  0.0 st 
+MiB Mem :    914.2 total,    237.0 free,    607.6 used,    317.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    306.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  14298 root      20   0  261.5g 171648  73660 S 195.0  18.3   1:41.65 WebAppl+
+
+top - 21:09:41 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 48.8 us,  9.8 sy,  0.0 ni, 36.6 id,  0.0 wa,  0.0 hi,  4.9 si,  0.0 st 
+MiB Mem :    914.2 total,    237.0 free,    607.6 used,    317.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    306.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  14298 root      20   0  261.5g 162244  73664 S 125.0  17.3   1:41.90 WebAppl+
+
+top - 21:09:41 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
 Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
 %Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     67.1 free,    679.1 used,    469.5 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    235.1 avail Mem 
+MiB Mem :    914.2 total,    237.0 free,    607.6 used,    317.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    306.6 avail Mem 
 
     PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 178236 121216 S   0.0  19.0   0:43.74 WebAppl+
+  14298 root      20   0  261.5g 162256  73664 S   0.0  17.3   1:41.90 WebAppl+
 
-top - 20:33:32 up 43 min,  1 user,  load average: 0.43, 0.37, 0.19
+top - 21:09:41 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
 Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
 %Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     67.1 free,    679.1 used,    469.5 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    235.1 avail Mem 
+MiB Mem :    914.2 total,    237.0 free,    607.6 used,    317.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    306.6 avail Mem 
 
     PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 178236 121216 S   0.0  19.0   0:43.74 WebAppl+
+  14298 root      20   0  261.5g 162264  73664 S   0.0  17.3   1:41.90 WebAppl+
 
-top - 20:33:33 up 43 min,  1 user,  load average: 0.43, 0.37, 0.19
+top - 21:09:42 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
 Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
 %Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     67.1 free,    679.1 used,    469.5 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    235.1 avail Mem 
+MiB Mem :    914.2 total,    237.0 free,    607.6 used,    317.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    306.6 avail Mem 
 
     PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 178236 121216 S   0.0  19.0   0:43.74 WebAppl+
+  14298 root      20   0  261.5g 162264  73664 S   0.0  17.3   1:41.90 WebAppl+
 
-top - 20:33:34 up 43 min,  1 user,  load average: 0.43, 0.37, 0.19
+top - 21:09:42 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
 Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
 %Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     67.1 free,    679.1 used,    469.5 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    235.1 avail Mem 
+MiB Mem :    914.2 total,    237.0 free,    607.6 used,    317.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    306.6 avail Mem 
 
     PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 178236 121216 S   0.0  19.0   0:43.74 WebAppl+
+  14298 root      20   0  261.5g 162264  73664 S   0.0  17.3   1:41.90 WebAppl+
 
-top - 20:33:35 up 43 min,  1 user,  load average: 0.43, 0.37, 0.19
+top - 21:09:42 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
 Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
 %Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     67.1 free,    679.1 used,    469.5 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    235.1 avail Mem 
+MiB Mem :    914.2 total,    237.0 free,    607.6 used,    317.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    306.6 avail Mem 
 
     PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 178236 121216 S   0.0  19.0   0:43.74 WebAppl+
+  14298 root      20   0  261.5g 162264  73664 S   0.0  17.3   1:41.90 WebAppl+
 
-top - 20:33:36 up 43 min,  1 user,  load average: 0.43, 0.37, 0.19
+top - 21:09:42 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
 Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
 %Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     67.1 free,    679.1 used,    469.5 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    235.1 avail Mem 
+MiB Mem :    914.2 total,    237.0 free,    607.6 used,    317.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    306.6 avail Mem 
 
     PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 178236 121216 S   0.0  19.0   0:43.74 WebAppl+
+  14298 root      20   0  261.5g 162264  73664 S   0.0  17.3   1:41.90 WebAppl+
 
-top - 20:33:37 up 43 min,  1 user,  load average: 0.40, 0.37, 0.19
+top - 21:09:42 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
 Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
 %Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     67.1 free,    679.1 used,    469.5 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    235.1 avail Mem 
+MiB Mem :    914.2 total,    237.0 free,    607.6 used,    317.9 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    306.6 avail Mem 
 
     PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 178236 121216 S   0.0  19.0   0:43.74 WebAppl+
+  14298 root      20   0  261.5g 162264  73664 S   0.0  17.3   1:41.90 WebAppl+
 
-top - 20:33:38 up 43 min,  1 user,  load average: 0.40, 0.37, 0.19
+top - 21:09:43 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
 Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
 %Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     67.1 free,    679.1 used,    469.5 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    235.1 avail Mem 
+MiB Mem :    914.2 total,    233.6 free,    609.5 used,    319.4 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    304.7 avail Mem 
 
     PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 178236 121216 S   0.0  19.0   0:43.74 WebAppl+
+  14298 root      20   0  261.5g 162264  73664 S   0.0  17.3   1:41.90 WebAppl+
 
-top - 20:33:39 up 43 min,  1 user,  load average: 0.40, 0.37, 0.19
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.5 us,  0.0 sy,  0.0 ni, 99.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     67.1 free,    679.1 used,    469.5 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    235.1 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 178236 121216 S   0.0  19.0   0:43.74 WebAppl+
-
-top - 20:33:40 up 43 min,  1 user,  load average: 0.40, 0.37, 0.19
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.5 sy,  0.0 ni, 99.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     67.1 free,    679.1 used,    469.5 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    235.1 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 178236 121216 S   0.0  19.0   0:43.74 WebAppl+
-
-top - 20:33:41 up 43 min,  1 user,  load average: 0.40, 0.37, 0.19
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 29.1 us,  4.0 sy,  0.0 ni, 64.8 id,  0.0 wa,  0.0 hi,  1.0 si,  1.0 st 
-MiB Mem :    914.2 total,     67.1 free,    679.1 used,    469.5 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    235.1 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 177448 121316 S  70.0  19.0   0:44.44 WebAppl+
-
-top - 20:33:42 up 43 min,  1 user,  load average: 0.93, 0.48, 0.23
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 42.7 us,  8.0 sy,  0.0 ni, 46.7 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st 
-MiB Mem :    914.2 total,     66.9 free,    678.5 used,    470.4 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    235.7 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 177816 121316 S 107.0  19.0   0:45.51 WebAppl+
-
-top - 20:33:43 up 43 min,  1 user,  load average: 0.93, 0.48, 0.23
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 37.4 us,  7.6 sy,  0.0 ni, 53.5 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st 
-MiB Mem :    914.2 total,     66.9 free,    678.5 used,    470.4 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    235.7 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 178420 121316 S  91.0  19.1   0:46.42 WebAppl+
-
-top - 20:33:44 up 43 min,  1 user,  load average: 0.93, 0.48, 0.23
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 37.0 us,  7.0 sy,  0.0 ni, 53.0 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.9 free,    678.5 used,    470.4 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    235.7 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 178972 121316 S  95.0  19.1   0:47.37 WebAppl+
-
-top - 20:33:45 up 43 min,  1 user,  load average: 0.93, 0.48, 0.23
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 46.5 us,  9.1 sy,  0.0 ni, 41.4 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st 
-MiB Mem :    914.2 total,     63.9 free,    679.8 used,    472.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    234.4 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 177820 121316 S 113.9  19.0   0:48.52 WebAppl+
-
-top - 20:33:46 up 43 min,  1 user,  load average: 0.93, 0.48, 0.23
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 36.2 us,  8.0 sy,  0.0 ni, 53.8 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st 
-MiB Mem :    914.2 total,     63.9 free,    679.8 used,    472.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    234.4 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 178900 121316 S  92.0  19.1   0:49.44 WebAppl+
-
-top - 20:33:47 up 43 min,  1 user,  load average: 1.09, 0.52, 0.25
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 36.0 us,  6.5 sy,  0.0 ni, 55.5 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st 
-MiB Mem :    914.2 total,     63.9 free,    679.8 used,    472.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    234.4 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 178900 121316 S  89.0  19.1   0:50.33 WebAppl+
-
-top - 20:33:48 up 43 min,  1 user,  load average: 1.09, 0.52, 0.25
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 37.2 us,  7.5 sy,  0.0 ni, 52.3 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st 
-MiB Mem :    914.2 total,     71.8 free,    674.3 used,    469.7 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    239.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 181680 121316 S  94.0  19.4   0:51.27 WebAppl+
-
-top - 20:33:49 up 43 min,  1 user,  load average: 1.09, 0.52, 0.25
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 32.2 us,  5.9 sy,  0.0 ni, 59.9 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st 
-MiB Mem :    914.2 total,     71.8 free,    674.3 used,    469.7 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    239.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 179472 121316 S  78.0  19.2   0:52.05 WebAppl+
-
-top - 20:33:50 up 43 min,  1 user,  load average: 1.09, 0.52, 0.25
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni, 99.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.5 st 
-MiB Mem :    914.2 total,     71.8 free,    674.3 used,    469.7 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    239.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 179488 121316 S   1.0  19.2   0:52.06 WebAppl+
-
-top - 20:33:51 up 43 min,  1 user,  load average: 1.09, 0.52, 0.25
+top - 21:09:43 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
 Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
 %Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     72.0 free,    673.7 used,    470.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    240.5 avail Mem 
+MiB Mem :    914.2 total,    233.6 free,    609.5 used,    319.4 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    304.7 avail Mem 
 
     PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 179488 121316 S   0.0  19.2   0:52.06 WebAppl+
+  14298 root      20   0  261.5g 162264  73664 S   0.0  17.3   1:41.90 WebAppl+
 
-top - 20:33:52 up 43 min,  1 user,  load average: 1.00, 0.51, 0.24
+top - 21:09:43 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
 Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
 %Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     72.0 free,    673.7 used,    470.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    240.5 avail Mem 
+MiB Mem :    914.2 total,    233.6 free,    609.5 used,    319.4 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    304.7 avail Mem 
 
     PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 179488 121316 S   0.0  19.2   0:52.06 WebAppl+
+  14298 root      20   0  261.5g 162264  73664 S   0.0  17.3   1:41.90 WebAppl+
 
-top - 20:33:53 up 43 min,  1 user,  load average: 1.00, 0.51, 0.24
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni, 99.5 id,  0.5 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     72.0 free,    673.7 used,    470.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    240.5 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 179488 121316 S   0.0  19.2   0:52.06 WebAppl+
-
-top - 20:33:54 up 43 min,  1 user,  load average: 1.00, 0.51, 0.24
+top - 21:09:43 up  1:19,  1 user,  load average: 0.00, 0.04, 0.07
 Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
 %Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     72.0 free,    673.7 used,    470.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    240.5 avail Mem 
+MiB Mem :    914.2 total,    233.6 free,    609.5 used,    319.4 buff/cache     
+MiB Swap:      0.0 total,      0.0 free,      0.0 used.    304.7 avail Mem 
 
     PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 179488 121316 S   0.0  19.2   0:52.06 WebAppl+
-
-top - 20:33:55 up 43 min,  1 user,  load average: 1.00, 0.51, 0.24
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     72.0 free,    673.7 used,    470.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    240.5 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 179488 121316 S   0.0  19.2   0:52.06 WebAppl+
-
-top - 20:33:56 up 43 min,  1 user,  load average: 1.00, 0.51, 0.24
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     72.0 free,    673.7 used,    470.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    240.5 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 179488 121316 S   0.0  19.2   0:52.06 WebAppl+
-
-top - 20:33:57 up 43 min,  1 user,  load average: 0.92, 0.50, 0.24
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.5 sy,  0.0 ni, 99.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.4 free,    679.3 used,    470.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    234.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 179488 121316 S   0.0  19.2   0:52.06 WebAppl+
-
-top - 20:33:58 up 43 min,  1 user,  load average: 0.92, 0.50, 0.24
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.4 free,    679.3 used,    470.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    234.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 179488 121316 S   0.0  19.2   0:52.06 WebAppl+
-
-top - 20:33:59 up 43 min,  1 user,  load average: 0.92, 0.50, 0.24
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.4 free,    679.3 used,    470.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    234.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 179488 121316 S   1.0  19.2   0:52.07 WebAppl+
-
-top - 20:34:00 up 43 min,  1 user,  load average: 0.92, 0.50, 0.24
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.4 free,    679.3 used,    470.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    234.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 179488 121316 S   0.0  19.2   0:52.07 WebAppl+
-
-top - 20:34:01 up 43 min,  1 user,  load average: 0.92, 0.50, 0.24
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.4 free,    679.3 used,    470.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    234.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 179488 121316 S   0.0  19.2   0:52.07 WebAppl+
-
-top - 20:34:02 up 43 min,  1 user,  load average: 0.85, 0.49, 0.24
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 26.9 us,  5.0 sy,  0.0 ni, 66.2 id,  0.0 wa,  0.0 hi,  1.5 si,  0.5 st 
-MiB Mem :    914.2 total,     66.4 free,    679.3 used,    470.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    234.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 183472 121336 S  66.0  19.6   0:52.73 WebAppl+
-
-top - 20:34:03 up 43 min,  1 user,  load average: 0.85, 0.49, 0.24
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 41.0 us,  9.0 sy,  0.0 ni, 47.0 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st 
-MiB Mem :    914.2 total,     64.6 free,    680.0 used,    471.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    234.2 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 181284 121336 S 105.0  19.4   0:53.78 WebAppl+
-
-top - 20:34:04 up 43 min,  1 user,  load average: 0.85, 0.49, 0.24
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 42.2 us,  8.0 sy,  0.0 ni, 46.7 id,  0.0 wa,  0.0 hi,  2.5 si,  0.5 st 
-MiB Mem :    914.2 total,     64.6 free,    680.0 used,    471.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    234.2 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 183564 121336 S 105.0  19.6   0:54.83 WebAppl+
-
-top - 20:34:05 up 43 min,  1 user,  load average: 0.85, 0.49, 0.24
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 39.9 us,  7.6 sy,  0.0 ni, 50.5 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st 
-MiB Mem :    914.2 total,     64.6 free,    680.0 used,    471.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    234.2 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 182184 121336 S  99.0  19.5   0:55.82 WebAppl+
-
-top - 20:34:06 up 43 min,  1 user,  load average: 0.85, 0.49, 0.24
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 36.5 us,  8.5 sy,  0.0 ni, 52.5 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st 
-MiB Mem :    914.2 total,     64.0 free,    678.8 used,    473.0 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    235.4 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 181768 121336 S  94.0  19.4   0:56.76 WebAppl+
-
-top - 20:34:07 up 43 min,  1 user,  load average: 1.74, 0.68, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 39.9 us,  7.6 sy,  0.0 ni, 50.0 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st 
-MiB Mem :    914.2 total,     64.0 free,    678.8 used,    473.0 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    235.4 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 181976 121336 S 100.0  19.4   0:57.77 WebAppl+
-
-top - 20:34:08 up 43 min,  1 user,  load average: 1.74, 0.68, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 38.8 us,  8.5 sy,  0.0 ni, 50.2 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st 
-MiB Mem :    914.2 total,     64.0 free,    678.8 used,    473.0 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    235.4 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 184148 121336 S  97.0  19.7   0:58.74 WebAppl+
-
-top - 20:34:09 up 43 min,  1 user,  load average: 1.74, 0.68, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 22.1 us,  5.5 sy,  0.0 ni, 70.9 id,  0.0 wa,  0.0 hi,  1.5 si,  0.0 st 
-MiB Mem :    914.2 total,     76.4 free,    675.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    238.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 184032 121336 S  57.0  19.7   0:59.31 WebAppl+
-
-top - 20:34:10 up 43 min,  1 user,  load average: 1.74, 0.68, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     76.4 free,    675.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    238.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 184032 121336 S   0.0  19.7   0:59.31 WebAppl+
-
-top - 20:34:11 up 43 min,  1 user,  load average: 1.74, 0.68, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.5 us,  0.0 sy,  0.0 ni, 99.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     76.4 free,    675.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    238.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 184032 121336 S   0.0  19.7   0:59.31 WebAppl+
-
-top - 20:34:12 up 43 min,  1 user,  load average: 1.60, 0.67, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     76.4 free,    675.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    238.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 184032 121336 S   0.0  19.7   0:59.31 WebAppl+
-
-top - 20:34:13 up 43 min,  1 user,  load average: 1.60, 0.67, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     76.4 free,    675.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    238.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 184032 121336 S   0.0  19.7   0:59.31 WebAppl+
-
-top - 20:34:14 up 43 min,  1 user,  load average: 1.60, 0.67, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     76.4 free,    675.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    238.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 184032 121336 S   0.0  19.7   0:59.31 WebAppl+
-
-top - 20:34:15 up 43 min,  1 user,  load average: 1.60, 0.67, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     76.4 free,    675.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    238.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 184032 121336 S   0.0  19.7   0:59.31 WebAppl+
-
-top - 20:34:16 up 44 min,  1 user,  load average: 1.60, 0.67, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni, 99.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.5 st 
-MiB Mem :    914.2 total,     76.4 free,    675.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    238.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 184032 121336 S   0.0  19.7   0:59.31 WebAppl+
-
-top - 20:34:17 up 44 min,  1 user,  load average: 1.47, 0.66, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     76.4 free,    675.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    238.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 184032 121336 S   0.0  19.7   0:59.31 WebAppl+
-
-top - 20:34:18 up 44 min,  1 user,  load average: 1.47, 0.66, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     76.4 free,    675.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    238.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 184032 121336 S   0.0  19.7   0:59.31 WebAppl+
-
-top - 20:34:19 up 44 min,  1 user,  load average: 1.47, 0.66, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     76.4 free,    675.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    238.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 184032 121336 S   0.0  19.7   0:59.31 WebAppl+
-
-top - 20:34:20 up 44 min,  1 user,  load average: 1.47, 0.66, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     76.4 free,    675.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    238.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 184032 121336 S   0.0  19.7   0:59.31 WebAppl+
-
-top - 20:34:21 up 44 min,  1 user,  load average: 1.47, 0.66, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     76.4 free,    675.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    238.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 184032 121336 S   0.0  19.7   0:59.31 WebAppl+
-
-top - 20:34:22 up 44 min,  1 user,  load average: 1.36, 0.65, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     76.4 free,    675.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    238.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 184032 121336 S   0.0  19.7   0:59.31 WebAppl+
-
-top - 20:34:23 up 44 min,  1 user,  load average: 1.36, 0.65, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     76.4 free,    675.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    238.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 184032 121336 S   0.0  19.7   0:59.31 WebAppl+
-
-top - 20:34:24 up 44 min,  1 user,  load average: 1.36, 0.65, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.5 sy,  0.0 ni, 99.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     76.4 free,    675.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    238.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 184032 121336 S   0.0  19.7   0:59.31 WebAppl+
-
-top - 20:34:25 up 44 min,  1 user,  load average: 1.36, 0.65, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     76.4 free,    675.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    238.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 184032 121336 S   0.0  19.7   0:59.31 WebAppl+
-
-top - 20:34:26 up 44 min,  1 user,  load average: 1.36, 0.65, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     76.4 free,    675.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    238.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 184032 121336 S   0.0  19.7   0:59.31 WebAppl+
-
-top - 20:34:27 up 44 min,  1 user,  load average: 1.25, 0.64, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     76.4 free,    675.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    238.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 184020 121336 S   0.0  19.7   0:59.31 WebAppl+
-
-top - 20:34:28 up 44 min,  1 user,  load average: 1.25, 0.64, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     76.4 free,    675.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    238.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.4g 184020 121336 S   0.0  19.7   0:59.31 WebAppl+
-
-top - 20:34:29 up 44 min,  1 user,  load average: 1.25, 0.64, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.5 sy,  0.0 ni, 99.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     76.4 free,    675.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    238.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 183596 121336 S   1.0  19.6   0:59.32 WebAppl+
-
-top - 20:34:30 up 44 min,  1 user,  load average: 1.25, 0.64, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.5 free,    685.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    228.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 183596 121336 S   0.0  19.6   0:59.32 WebAppl+
-
-top - 20:34:31 up 44 min,  1 user,  load average: 1.25, 0.64, 0.30
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.5 free,    685.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    228.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 183596 121336 S   0.0  19.6   0:59.32 WebAppl+
-
-top - 20:34:32 up 44 min,  1 user,  load average: 1.15, 0.63, 0.29
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.5 free,    685.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    228.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 183596 121336 S   0.0  19.6   0:59.32 WebAppl+
-
-top - 20:34:33 up 44 min,  1 user,  load average: 1.15, 0.63, 0.29
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.5 free,    685.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    228.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 183596 121336 S   0.0  19.6   0:59.32 WebAppl+
-
-top - 20:34:34 up 44 min,  1 user,  load average: 1.15, 0.63, 0.29
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.5 us,  0.0 sy,  0.0 ni, 99.0 id,  0.5 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.5 free,    685.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    228.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 183596 121336 S   0.0  19.6   0:59.32 WebAppl+
-
-top - 20:34:35 up 44 min,  1 user,  load average: 1.15, 0.63, 0.29
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.5 free,    685.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    228.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 183596 121336 S   0.0  19.6   0:59.32 WebAppl+
-
-top - 20:34:36 up 44 min,  1 user,  load average: 1.15, 0.63, 0.29
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.5 free,    685.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    228.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 183596 121336 S   0.0  19.6   0:59.32 WebAppl+
-
-top - 20:34:37 up 44 min,  1 user,  load average: 1.05, 0.62, 0.29
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.5 free,    685.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    228.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 183596 121336 S   0.0  19.6   0:59.32 WebAppl+
-
-top - 20:34:38 up 44 min,  1 user,  load average: 1.05, 0.62, 0.29
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.5 free,    685.3 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    228.9 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 183596 121336 S   0.0  19.6   0:59.32 WebAppl+
-
-top - 20:34:39 up 44 min,  1 user,  load average: 1.05, 0.62, 0.29
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  1.5 us,  0.5 sy,  0.0 ni, 98.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.6 free,    685.1 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    229.1 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 182088 121332 S   3.0  19.5   0:59.35 WebAppl+
-
-top - 20:34:40 up 44 min,  1 user,  load average: 1.05, 0.62, 0.29
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.6 free,    685.1 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    229.1 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 182088 121332 S   0.0  19.5   0:59.35 WebAppl+
-
-top - 20:34:41 up 44 min,  1 user,  load average: 1.05, 0.62, 0.29
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni, 99.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.5 st 
-MiB Mem :    914.2 total,     66.6 free,    685.1 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    229.1 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 182088 121332 S   0.0  19.5   0:59.35 WebAppl+
-
-top - 20:34:42 up 44 min,  1 user,  load average: 0.97, 0.61, 0.29
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.6 free,    685.1 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    229.1 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 182088 121332 S   0.0  19.5   0:59.35 WebAppl+
-
-top - 20:34:43 up 44 min,  1 user,  load average: 0.97, 0.61, 0.29
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.6 free,    685.1 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    229.1 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 182088 121332 S   0.0  19.5   0:59.35 WebAppl+
-
-top - 20:34:44 up 44 min,  1 user,  load average: 0.97, 0.61, 0.29
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.6 free,    685.1 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    229.1 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 182088 121332 S   0.0  19.5   0:59.35 WebAppl+
-
-top - 20:34:45 up 44 min,  1 user,  load average: 0.97, 0.61, 0.29
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.6 free,    685.1 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    229.1 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 182088 121332 S   0.0  19.5   0:59.35 WebAppl+
-
-top - 20:34:46 up 44 min,  1 user,  load average: 0.97, 0.61, 0.29
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.6 free,    685.1 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    229.1 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 182088 121332 S   0.0  19.5   0:59.35 WebAppl+
-
-top - 20:34:47 up 44 min,  1 user,  load average: 1.29, 0.68, 0.32
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 42.0 us,  8.5 sy,  0.0 ni, 46.5 id,  0.0 wa,  0.0 hi,  3.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.6 free,    685.1 used,    464.1 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    229.1 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 182704 121336 S 105.0  19.5   1:00.40 WebAppl+
-
-top - 20:34:48 up 44 min,  1 user,  load average: 1.29, 0.68, 0.32
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 37.0 us,  8.0 sy,  0.0 ni, 53.0 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st 
-MiB Mem :    914.2 total,     66.8 free,    683.8 used,    465.2 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    230.4 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 184224 121336 S  93.0  19.7   1:01.33 WebAppl+
-
-top - 20:34:49 up 44 min,  1 user,  load average: 1.29, 0.68, 0.32
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 37.4 us,  8.1 sy,  0.0 ni, 52.0 id,  0.0 wa,  0.0 hi,  2.0 si,  0.5 st 
-MiB Mem :    914.2 total,     66.8 free,    683.8 used,    465.2 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    230.4 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 184744 121340 S  95.0  19.7   1:02.28 WebAppl+
-
-top - 20:34:50 up 44 min,  1 user,  load average: 1.29, 0.68, 0.32
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 44.7 us,  7.6 sy,  0.0 ni, 45.2 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st 
-MiB Mem :    914.2 total,     66.8 free,    683.8 used,    465.2 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    230.4 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 183764 121340 S 110.0  19.6   1:03.38 WebAppl+
-
-top - 20:34:51 up 44 min,  1 user,  load average: 1.29, 0.68, 0.32
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 45.2 us,  6.0 sy,  0.0 ni, 46.2 id,  0.0 wa,  0.0 hi,  2.5 si,  0.0 st 
-MiB Mem :    914.2 total,     67.0 free,    681.9 used,    467.0 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    232.3 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 183960 121340 S 105.0  19.7   1:04.44 WebAppl+
-
-top - 20:34:52 up 44 min,  1 user,  load average: 1.43, 0.72, 0.33
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 50.0 us,  8.0 sy,  0.0 ni, 40.0 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st 
-MiB Mem :    914.2 total,     67.0 free,    681.9 used,    467.0 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    232.3 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 183984 121340 S 119.0  19.7   1:05.63 WebAppl+
-
-top - 20:34:53 up 44 min,  1 user,  load average: 1.43, 0.72, 0.33
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 35.2 us,  7.5 sy,  0.0 ni, 55.3 id,  0.0 wa,  0.0 hi,  2.0 si,  0.0 st 
-MiB Mem :    914.2 total,     67.0 free,    681.9 used,    467.0 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    232.3 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 184960 121340 S  88.0  19.8   1:06.51 WebAppl+
-
-top - 20:34:54 up 44 min,  1 user,  load average: 1.43, 0.72, 0.33
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 41.2 us,  7.5 sy,  0.0 ni, 48.7 id,  0.0 wa,  0.0 hi,  2.0 si,  0.5 st 
-MiB Mem :    914.2 total,     67.2 free,    680.0 used,    468.7 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    234.2 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 186504 121340 S 102.0  19.9   1:07.53 WebAppl+
-
-top - 20:34:55 up 44 min,  1 user,  load average: 1.43, 0.72, 0.33
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s): 12.6 us,  1.5 sy,  0.0 ni, 84.9 id,  0.0 wa,  0.0 hi,  1.0 si,  0.0 st 
-MiB Mem :    914.2 total,     67.2 free,    680.0 used,    468.7 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    234.2 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 186220 121340 S  30.0  19.9   1:07.83 WebAppl+
-
-top - 20:34:56 up 44 min,  1 user,  load average: 1.43, 0.72, 0.33
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     67.2 free,    680.0 used,    468.7 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    234.2 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 186220 121340 S   0.0  19.9   1:07.83 WebAppl+
-
-top - 20:34:57 up 44 min,  1 user,  load average: 1.31, 0.71, 0.33
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.5 sy,  0.0 ni, 99.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     67.2 free,    679.8 used,    468.9 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    234.5 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 186220 121340 S   0.0  19.9   1:07.83 WebAppl+
-
-top - 20:34:58 up 44 min,  1 user,  load average: 1.31, 0.71, 0.33
-Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
-%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni,100.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st 
-MiB Mem :    914.2 total,     67.2 free,    679.8 used,    468.9 buff/cache     
-MiB Swap:      0.0 total,      0.0 free,      0.0 used.    234.5 avail Mem 
-
-    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
-  14298 root      20   0  261.3g 186220 121340 S   0.0  19.9   1:07.83 WebAppl+
+  14298 root      20   0  261.5g 162264  73664 S   0.0  17.3   1:41.90 WebAppl+
