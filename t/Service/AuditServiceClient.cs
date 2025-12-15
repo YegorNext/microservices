@@ -16,8 +16,19 @@ namespace WebApplication1.Service
 
         public void RecordAction(int actionId)
         {
-            var content = new StringContent(JsonSerializer.Serialize(new { actionId }), Encoding.UTF8, "application/json");
-            _httpClient.PostAsync(_endpoint, content).GetAwaiter().GetResult();
+        
+            var content = new StringContent(
+                JsonSerializer.Serialize(new { actionId }),
+                Encoding.UTF8,
+                "application/json");
+
+            using var request = new HttpRequestMessage(HttpMethod.Post, _endpoint)
+            {
+                Content = content
+            };
+
+            using var response = _httpClient.Send(request); 
+            response.EnsureSuccessStatusCode(); 
         }
     }
 }

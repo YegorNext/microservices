@@ -17,10 +17,16 @@ namespace WebApplication1.Service
 
         public void SendMetric(ActionResourceMetric metric)
         {
-            var json = JsonSerializer.Serialize(metric);
+                       var json = JsonSerializer.Serialize(metric);
             var content = new StringContent(json, Encoding.UTF8, "application/json");
 
-            _httpClient.PostAsync(_endpoint, content).GetAwaiter().GetResult();
+            using var request = new HttpRequestMessage(HttpMethod.Post, _endpoint)
+            {
+                Content = content
+            };
+
+            using var response = _httpClient.Send(request); // синхронний виклик
+            response.EnsureSuccessStatusCode(); // викине виняток, якщо статус >= 400
         }
     }
 }

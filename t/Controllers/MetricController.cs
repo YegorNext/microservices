@@ -61,55 +61,90 @@ namespace WebApplication1.Controllers
             return Ok(metrics);
         }
 
+
         [HttpGet("time-range")]
-        public IActionResult GetMetricsByTimeRange([FromQuery] DateTime start, [FromQuery] DateTime end)
+        public async Task<IActionResult> GetMetricsByTimeRange([FromQuery] DateTime start, [FromQuery] DateTime end)
         {
             var process = Process.GetCurrentProcess();
+            int processorCount = Environment.ProcessorCount;
 
-            // Вимір CPU time на старті
             var cpuStart = process.TotalProcessorTime;
 
-            // Вимір загального часу виконання
             var stopwatch = Stopwatch.StartNew();
 
-            // Отримуємо метрики з бази
-            var metrics = _metricService.GetMetricsByTimeRange(start, end);
+            double systemCpuLoadStart = ReadSystemCpuLoad();
+
+            for (int i = 0; i < 17; i++)
+            {
+                var metrics = _metricService.GetMetricsByTimeRange(start, end);
+            }
 
             stopwatch.Stop();
-
-            // Вимір CPU time після виконання
+            
             var cpuEnd = process.TotalProcessorTime;
-            var cpuTimeUsed = cpuEnd - cpuStart;
+            double cpuTimeUsedMs = (cpuEnd - cpuStart).TotalMilliseconds;
 
-            var memoryUsedMb = process.WorkingSet64 / (1024.0 * 1024.0);
+            double cpuLoadPercent = (cpuTimeUsedMs / (stopwatch.Elapsed.TotalMilliseconds * processorCount)) * 100;
 
-            // Формуємо об'єкт для повернення
+            var totalMemoryMb = process.WorkingSet64 / (1024.0 * 1024.0);
+
+            double systemCpuLoadEnd = ReadSystemCpuLoad();
+            double systemCpuLoadPercent = (systemCpuLoadEnd - systemCpuLoadStart) * 100;
+
             var result = new
             {
                 Performance = new
                 {
-                    TotalElapsedMilliseconds = stopwatch.Elapsed.TotalMilliseconds, // дробні мс
-                    CpuTimeMilliseconds = cpuTimeUsed.TotalMilliseconds,            // дробні мс
-                    MemoryUsedMb = Math.Round(memoryUsedMb, 2),
-                    RecordsCount = metrics.Count()
-                },
-                Data = metrics
+                    TotalElapsedMilliseconds = stopwatch.ElapsedMilliseconds,
+                    AppCpuLoadPercent = Math.Round(cpuLoadPercent, 2),
+                    TotalMemoryUsedMb = Math.Round(totalMemoryMb, 2),
+                    SystemCpuLoadPercent = Math.Round(systemCpuLoadPercent, 2)
+                }
             };
 
-            // Вивід у консоль (для локального логування)
-            Console.WriteLine("=== Performance Metrics ===");
-            Console.WriteLine($"Total time: {stopwatch.Elapsed.TotalMilliseconds:F3} ms");
-            Console.WriteLine($"CPU time: {cpuTimeUsed.TotalMilliseconds:F3} ms");
-            Console.WriteLine($"Memory used: {memoryUsedMb:F2} MB");
-            Console.WriteLine($"Records count: {metrics.Count()}");
-            Console.WriteLine("===========================");
+            GC.Collect();
+            GC.WaitForPendingFinalizers();
 
-            // Повернення JSON
             return new JsonResult(result, new JsonSerializerOptions
             {
                 WriteIndented = true,
                 ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.IgnoreCycles
             });
         }
-    }
+
+        // РњРµС‚РѕРґ РґР»СЏ С‡С‚РµРЅРёСЏ РѕР±С‰РµР№ Р·Р°РіСЂСѓР·РєРё CPU РІ Linux
+        private double ReadSystemCpuLoad()
+        {
+            try
+            {
+                var lines = System.IO.File.ReadAllLines("/proc/stat");
+                var cpuLine = lines.FirstOrDefault(l => l.StartsWith("cpu "));
+                if (cpuLine == null) return 0;
+
+                var parts = cpuLine.Split(' ', StringSplitOptions.RemoveEmptyEntries);
+
+                double user = double.Parse(parts[1]);
+                double nice = double.Parse(parts[2]);
+                double system = double.Parse(parts[3]);
+                double idle = double.Parse(parts[4]);
+                double iowait = double.Parse(parts[5]);
+                double irq = double.Parse(parts[6]);
+                double softirq = double.Parse(parts[7]);
+                double steal = double.Parse(parts[8]);
+
+                double totalIdle = idle + iowait;
+                double totalNonIdle = user + nice + system + irq + softirq + steal;
+                double total = totalIdle + totalNonIdle;
+
+                return totalNonIdle / total;
+            }
+            catch
+            {
+                return 0;
+            }       
+         }    
+
+      
+      }
+    
 }

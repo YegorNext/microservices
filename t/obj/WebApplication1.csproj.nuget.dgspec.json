@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\WebApplication1.csproj": {}
+    "/home/microservices/t/WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\WebApplication1.csproj": {
+    "/home/microservices/t/WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\WebApplication1.csproj",
+        "projectUniqueName": "/home/microservices/t/WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\SuperUser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\obj\\",
+        "projectPath": "/home/microservices/t/WebApplication1.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/microservices/t/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\SuperUser\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,13 +32,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -78,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.122/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

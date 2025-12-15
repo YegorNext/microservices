@@ -61,55 +61,6 @@ namespace WebApplication1.Controllers
             return Ok(metrics);
         }
 
-        [HttpGet("time-range")]
-        public IActionResult GetMetricsByTimeRange([FromQuery] DateTime start, [FromQuery] DateTime end)
-        {
-            var process = Process.GetCurrentProcess();
 
-            // Вимір CPU time на старті
-            var cpuStart = process.TotalProcessorTime;
-
-            // Вимір загального часу виконання
-            var stopwatch = Stopwatch.StartNew();
-
-            // Отримуємо метрики з бази
-            var metrics = _metricService.GetMetricsByTimeRange(start, end);
-
-            stopwatch.Stop();
-
-            // Вимір CPU time після виконання
-            var cpuEnd = process.TotalProcessorTime;
-            var cpuTimeUsed = cpuEnd - cpuStart;
-
-            var memoryUsedMb = process.WorkingSet64 / (1024.0 * 1024.0);
-
-            // Формуємо об'єкт для повернення
-            var result = new
-            {
-                Performance = new
-                {
-                    TotalElapsedMilliseconds = stopwatch.ElapsedMilliseconds,
-                    CpuTimeMilliseconds = cpuTimeUsed.TotalMilliseconds,
-                    MemoryUsedMb = Math.Round(memoryUsedMb, 2),
-                    RecordsCount = metrics.Count()
-                },
-                Data = metrics
-            };
-
-            // Вивід у консоль (для локального логування)
-            Console.WriteLine("=== Performance Metrics ===");
-            Console.WriteLine($"Total time: {stopwatch.ElapsedMilliseconds} ms");
-            Console.WriteLine($"CPU time: {cpuTimeUsed.TotalMilliseconds} ms");
-            Console.WriteLine($"Memory used: {memoryUsedMb:F2} MB");
-            Console.WriteLine($"Records count: {metrics.Count()}");
-            Console.WriteLine("===========================");
-
-            // Повернення JSON
-            return new JsonResult(result, new JsonSerializerOptions
-            {
-                WriteIndented = true, // для читабельного форматування
-                ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.IgnoreCycles // уникаємо циклів
-            });
-        }
     }
 }
