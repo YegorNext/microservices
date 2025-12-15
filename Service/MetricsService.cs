@@ -28,8 +28,8 @@ namespace WebApplication1.Service
 
         public IEnumerable<ActionResourceMetric> GetMetricsByTimeRange(DateTime start, DateTime end)
         {
+            // без Include, щоб уникнути помилок JOIN
             return _dbContext.Metrics
-                .Include(m => m.UserAction)
                 .Where(m => m.CollectedAt >= start && m.CollectedAt <= end)
                 .ToList();
         }

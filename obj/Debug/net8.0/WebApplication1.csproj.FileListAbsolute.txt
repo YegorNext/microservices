@@ -82,3 +82,4 @@ C:\Users\SuperUser\Desktop\t2\WebApplication1\obj\Debug\net8.0\refint\WebApplica
 C:\Users\SuperUser\Desktop\t2\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Users\SuperUser\Desktop\t2\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\SuperUser\Desktop\t2\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\SuperUser\Desktop\t2\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json

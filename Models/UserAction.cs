@@ -19,6 +19,6 @@ namespace WebApplication1.Models
         [Column("created_at")]
         public DateTime CreatedAt { get; set; }
 
-        public ActionResourceMetric ActionResourceMetric { get; set; }
+        public ActionResourceMetric? ActionResourceMetric { get; set; }
     }
 }

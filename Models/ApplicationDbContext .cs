@@ -18,7 +18,7 @@ namespace WebApplication1.Models
                 .HasOne(u => u.ActionResourceMetric)
                 .WithOne(m => m.UserAction)
                 .HasForeignKey<ActionResourceMetric>(m => m.ActionId)
-                .HasPrincipalKey<UserAction>(u => u.Id)
+                .IsRequired(false)  // дозволяємо ActionResourceMetric без UserAction
                 .OnDelete(DeleteBehavior.Cascade);
 
             base.OnModelCreating(modelBuilder);
