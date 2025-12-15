@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|c:\\users\\superuser\\desktop\\t2\\webapplication1 - copy\\controllers\\metriccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|solutionrelative:controllers\\metriccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|c:\\users\\superuser\\desktop\\t2\\webapplication1 - copy\\controllers\\auditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|solutionrelative:controllers\\auditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|c:\\users\\superuser\\desktop\\t2\\webapplication1 - copy\\service\\metricsserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|solutionrelative:service\\metricsserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|c:\\users\\superuser\\desktop\\t2\\webapplication1 - copy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|c:\\users\\superuser\\desktop\\t2\\webapplication1 - copy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|c:\\users\\superuser\\desktop\\t2\\webapplication1 - copy\\service\\metricsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|solutionrelative:service\\metricsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|c:\\users\\superuser\\desktop\\t2\\webapplication1 - copy\\service\\auditserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|solutionrelative:service\\auditserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|c:\\users\\superuser\\desktop\\t2\\webapplication1 - copy\\service\\auditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|solutionrelative:service\\auditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|c:\\users\\superuser\\desktop\\t2\\webapplication1 - copy\\models\\useraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|solutionrelative:models\\useraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|c:\\users\\superuser\\desktop\\t2\\webapplication1 - copy\\models\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|solutionrelative:models\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|c:\\users\\superuser\\desktop\\t2\\webapplication1 - copy\\models\\actionresourcemetric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|solutionrelative:models\\actionresourcemetric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|c:\\users\\superuser\\desktop\\t2\\webapplication1 - copy\\models\\metricdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|solutionrelative:models\\metricdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserAction.cs",
+              "DocumentMoniker": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\Models\\UserAction.cs",
+              "RelativeDocumentMoniker": "Models\\UserAction.cs",
+              "ToolTip": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\Models\\UserAction.cs",
+              "RelativeToolTip": "Models\\UserAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:33:51.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuditService.cs",
+              "DocumentMoniker": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\Service\\AuditService.cs",
+              "RelativeDocumentMoniker": "Service\\AuditService.cs",
+              "ToolTip": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\Service\\AuditService.cs",
+              "RelativeToolTip": "Service\\AuditService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:32:39.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuditServiceClient.cs",
+              "DocumentMoniker": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\Service\\AuditServiceClient.cs",
+              "RelativeDocumentMoniker": "Service\\AuditServiceClient.cs",
+              "ToolTip": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\Service\\AuditServiceClient.cs",
+              "RelativeToolTip": "Service\\AuditServiceClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:58:16.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MetricsService.cs",
+              "DocumentMoniker": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\Service\\MetricsService.cs",
+              "RelativeDocumentMoniker": "Service\\MetricsService.cs",
+              "ToolTip": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\Service\\MetricsService.cs",
+              "RelativeToolTip": "Service\\MetricsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:58:37.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MetricController.cs",
+              "DocumentMoniker": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\Controllers\\MetricController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MetricController.cs",
+              "ToolTip": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\Controllers\\MetricController.cs",
+              "RelativeToolTip": "Controllers\\MetricController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAwD8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:51:32.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MetricsServiceClient.cs",
+              "DocumentMoniker": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\Service\\MetricsServiceClient.cs",
+              "RelativeDocumentMoniker": "Service\\MetricsServiceClient.cs",
+              "ToolTip": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\Service\\MetricsServiceClient.cs",
+              "RelativeToolTip": "Service\\MetricsServiceClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:41:53.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:59:21.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-14T18:00:13.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuditController.cs",
+              "DocumentMoniker": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\Controllers\\AuditController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuditController.cs",
+              "ToolTip": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\Controllers\\AuditController.cs",
+              "RelativeToolTip": "Controllers\\AuditController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:34:49.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\Models\\ApplicationDbContext .cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext .cs",
+              "ToolTip": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\Models\\ApplicationDbContext .cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T17:57:08.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ActionResourceMetric.cs",
+              "DocumentMoniker": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\Models\\ActionResourceMetric.cs",
+              "RelativeDocumentMoniker": "Models\\ActionResourceMetric.cs",
+              "ToolTip": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\Models\\ActionResourceMetric.cs",
+              "RelativeToolTip": "Models\\ActionResourceMetric.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T18:59:00.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MetricDto.cs",
+              "DocumentMoniker": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\Models\\MetricDto.cs",
+              "RelativeDocumentMoniker": "Models\\MetricDto.cs",
+              "ToolTip": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1 - Copy\\Models\\MetricDto.cs",
+              "RelativeToolTip": "Models\\MetricDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T23:28:36.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

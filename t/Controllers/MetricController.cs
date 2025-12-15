@@ -1,5 +1,6 @@
 using System;
 using System.Diagnostics;
+using System.Text.Json;
 using Microsoft.AspNetCore.Mvc;
 using WebApplication1.Models;
 using WebApplication1.Service;
@@ -63,7 +64,6 @@ namespace WebApplication1.Controllers
         [HttpGet("time-range")]
         public IActionResult GetMetricsByTimeRange([FromQuery] DateTime start, [FromQuery] DateTime end)
         {
-            // Поточний процес
             var process = Process.GetCurrentProcess();
 
             // Вимір CPU time на старті
@@ -72,7 +72,7 @@ namespace WebApplication1.Controllers
             // Вимір загального часу виконання
             var stopwatch = Stopwatch.StartNew();
 
-
+            // Отримуємо метрики з бази
             var metrics = _metricService.GetMetricsByTimeRange(start, end);
 
             stopwatch.Stop();
@@ -83,12 +83,33 @@ namespace WebApplication1.Controllers
 
             var memoryUsedMb = process.WorkingSet64 / (1024.0 * 1024.0);
 
-            Console.WriteLine($"Загальний час: {stopwatch.ElapsedMilliseconds} ms,\n" +
-                                $"CPU time: {cpuTimeUsed.TotalMilliseconds} ms, " +
-                                $"Пам'ять: {memoryUsedMb:F2} MB, " +
-                                $"Кількість записів: {metrics.Count()}");
+            // Формуємо об'єкт для повернення
+            var result = new
+            {
+                Performance = new
+                {
+                    TotalElapsedMilliseconds = stopwatch.Elapsed.TotalMilliseconds, // дробні мс
+                    CpuTimeMilliseconds = cpuTimeUsed.TotalMilliseconds,            // дробні мс
+                    MemoryUsedMb = Math.Round(memoryUsedMb, 2),
+                    RecordsCount = metrics.Count()
+                },
+                Data = metrics
+            };
 
-            return Ok(metrics);
+            // Вивід у консоль (для локального логування)
+            Console.WriteLine("=== Performance Metrics ===");
+            Console.WriteLine($"Total time: {stopwatch.Elapsed.TotalMilliseconds:F3} ms");
+            Console.WriteLine($"CPU time: {cpuTimeUsed.TotalMilliseconds:F3} ms");
+            Console.WriteLine($"Memory used: {memoryUsedMb:F2} MB");
+            Console.WriteLine($"Records count: {metrics.Count()}");
+            Console.WriteLine("===========================");
+
+            // Повернення JSON
+            return new JsonResult(result, new JsonSerializerOptions
+            {
+                WriteIndented = true,
+                ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.IgnoreCycles
+            });
         }
     }
 }

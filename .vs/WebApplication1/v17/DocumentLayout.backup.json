@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|c:\\users\\superuser\\desktop\\t2\\webapplication1\\service\\metricsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|solutionrelative:service\\metricsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|c:\\users\\superuser\\desktop\\t2\\webapplication1\\models\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|solutionrelative:models\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|c:\\users\\superuser\\desktop\\t2\\webapplication1\\models\\actionresourcemetric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|solutionrelative:models\\actionresourcemetric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|c:\\users\\superuser\\desktop\\t2\\webapplication1\\service\\metricsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|solutionrelative:service\\metricsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CF2FA3F-32D2-48C6-9E92-5CB0FEDCAE7C}|WebApplication1.csproj|c:\\users\\superuser\\desktop\\t2\\webapplication1\\service\\auditserviceclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,20 +66,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MetricsService.cs",
               "DocumentMoniker": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1\\Service\\MetricsService.cs",
               "RelativeDocumentMoniker": "Service\\MetricsService.cs",
               "ToolTip": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1\\Service\\MetricsService.cs",
               "RelativeToolTip": "Service\\MetricsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABkAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-14T17:58:37.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ActionResourceMetric.cs",
               "DocumentMoniker": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1\\Models\\ActionResourceMetric.cs",
               "RelativeDocumentMoniker": "Models\\ActionResourceMetric.cs",
@@ -105,13 +105,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext .cs",
               "DocumentMoniker": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1\\Models\\ApplicationDbContext .cs",
               "RelativeDocumentMoniker": "Models\\ApplicationDbContext .cs",
               "ToolTip": "C:\\Users\\SuperUser\\Desktop\\t2\\WebApplication1\\Models\\ApplicationDbContext .cs",
               "RelativeToolTip": "Models\\ApplicationDbContext .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-14T17:57:08.895Z",
               "EditorCaption": ""
